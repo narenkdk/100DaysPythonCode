@@ -1,4 +1,6 @@
 #Day 2 - Variables
+#Q : 1. Create variables for your name, age, and favorite color and print them.
+
 
 name = "Blancos"  
 age = 26
