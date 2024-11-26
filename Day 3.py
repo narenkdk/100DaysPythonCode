@@ -1,5 +1,9 @@
 #Day 3 - Input and Output
 
+#Q : 1. Write a program that reads user input and print it to the console.
+#2. Modify the program to read and print different data type inputs (integers, floating-point numbers, strings)
+
+
 #program to read user input and print it to the console
 
 #name = input("Enter your name: ")
