@@ -1,83 +1,90 @@
-### README.md
+# 100 Days of Python Challenge 🚀🐍
 
-```markdown
-# 100 Days of Python Challenge
+Welcome to my **100 Days of Python Challenge**! This repository is a journey of consistent learning, coding, and mastering Python, one day at a time.
 
-Welcome to my **100 Days of Python Challenge** repository! 🚀  
-This repository documents my journey of learning and building projects in Python over 100 days. Each day includes a new topic, concept, or mini-project that helps me improve my Python skills progressively.
+## 🌟 Objective
 
----
+The goal of this challenge is to:
 
-## 🗓️ Challenge Goals
-- **Master Python fundamentals and beyond.**
-- Build real-world projects to enhance problem-solving and coding skills.
-- Explore Python libraries and frameworks, including `pandas`, `matplotlib`, `Flask`, and more.
-- Document every step of the journey for learning and reflection.
+- Enhance my Python programming skills.
+- Learn various libraries, frameworks, and concepts.
+- Build projects and solve problems to reinforce learning.
+- Document my progress and share it with the world.
 
----
+## 📅 Progress Overview
+
+| Day   | Topic/Task                               | Description                                       |
+|-------|-----------------------------------------|---------------------------------------------------|
+| Day 1 | Hello, World!                            | First Code   |
+| Day 2 | Variables                                | Creating various variables of diff types
+| Day 53| Set Operations                          | Union, intersection, difference, and more.       |
+| ...   | ...                                     | ...                                               |
+
+Check the full progress in the repository for more details!
+
+## 📚 Topics Covered
+
+Here’s what I aim to cover during the challenge:
+
+- Python Fundamentals
+- Data Structures and Algorithms
+- File Handling
+- Object-Oriented Programming (OOP)
+- Web Development with Django/Flask
+- Data Science and Machine Learning
+- Automation and Scripting
+- Projects and Challenges
+
+## 🛠️ Tools and Libraries
+
+Throughout this challenge, I’ll be using:
+
+- Python 3.x
+- Popular libraries: NumPy, pandas, matplotlib, Flask, Django, etc.
+- VS Code for experimentation.
+- Git for version control.
 
 ## 📂 Repository Structure
-The repository is organized into files by day, with each file containing:
-- A Python file explaining the day's task, code, and concepts.
-- The Python script(s) for the day's challenge.
-- Any additional resources or datasets used.
 
 ```
-100-days-python/
+100-days-of-python/
 │
-├── Day01/
-│   └── day01_script.py
+├── Day1_basics.py
+├── Day2_control_flow.py
+├── Day53_set_operations.py
+├── DayN_task_name.py
 │
-├── Day02/
-│   └── day02_script.py
-│
-...
-└── Day38/
-    └── day38_custom_exceptions.py
+└── README.md
 ```
 
----
+Each file corresponds to a specific day and task.
 
-## 🔥 Highlights
-Some key features of this challenge include:
-- **Custom Exceptions**: Learn to create and handle custom error classes.
-- **Data Analysis**: Work with libraries like `pandas` and `numpy`.
-- **Visualization**: Generate charts and graphs using `matplotlib` and `seaborn`.
-- **Web Development**: Build basic web applications with `Flask` or `Django`.
-- **Game Development**: Create small games using `pygame`.
+## ✨ How to Use
 
----
-
-## 🛠️ How to Use This Repo
-1. Clone the repository:
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/narenkdk/100DaysPythonCode.git
-   ```
-2. Navigate to the desired day's folder:
-   ```bash
-   cd 100DaysPythonCode/Day 1
-   ```
-3. Run the Python scripts:
-   ```bash
-   python Day !.py
+   git clone https://github.com/narenkdk/100DaysPython.git
+   100DaysPython
    ```
 
----
+2. Run any day's Python file:  
+   ```bash
+   python Day1_basics.py
+   ```
 
-## 📝 Notes and Reflections
-I will regularly update this repository with my thoughts, learning points, and any challenges faced during the journey.
+## 📖 Lessons Learned
 
----
+Every day, I’ll reflect on my progress and document lessons learned through detailed comments in each `.py` file.
 
-## 🌟 Acknowledgements
-This challenge is inspired by the **#100DaysOfCode** movement and various Python resources that have helped me along the way. Special thanks to the Python community for its support and encouragement.
+## 🎯 Future Goals
 
----
+- Complete the 100 days consistently.
+- Share insights and code on my [blog](#) and GitHub.
+- Build impactful projects for my portfolio.
 
-## 🐍 Join the Challenge!
-Feel free to fork this repository, try out the challenges, and share your progress. Let’s learn and grow together!
+## 💬 Get in Touch
 
-Happy Coding! 😊
-```
+Feel free to connect with me for feedback or discussions:
 
-You can adapt this template to match your progress, goals, and the structure of your challenge!
+- Email: narenkdk@gmail.com
+- Blog: [ScriptedSnaps](#)
