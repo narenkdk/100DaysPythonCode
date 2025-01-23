@@ -79,7 +79,7 @@ Every day, I’ll reflect on my progress and document lessons learned through de
 ## 🎯 Future Goals
 
 - Complete the 100 days consistently.
-- Share insights and code on my [blog](#) and GitHub.
+- Share insights and code on my GitHub.
 - Build impactful projects for my portfolio.
 
 ## 💬 Get in Touch
