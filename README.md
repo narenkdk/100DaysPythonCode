@@ -87,4 +87,4 @@ Every day, I’ll reflect on my progress and document lessons learned through de
 Feel free to connect with me for feedback or discussions:
 
 - Email: narenkdk@gmail.com
-- Blog: [ScriptedSnaps](#)
+- Blog: https://scriptedsnaps.wordpress.com/
